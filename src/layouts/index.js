@@ -15,7 +15,7 @@ import cleanBlog from '../assets/stylesheets/clean-blog.css'
 import paceTheme from '../assets/stylesheets/pace-theme-minimal.css'
 
 var $ = require('jquery');
-global.jQuery = $;
+window.jQuery = $;
 require('../assets/javascripts/bootstrap.bundle.min.js')
 require('../assets/javascripts/pace.min.js')
 require('../assets/javascripts/clean-blog.min.js')
