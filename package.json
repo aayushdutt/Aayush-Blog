@@ -9,7 +9,7 @@
     "gatsby-plugin-catch-links": "^1.0.22",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-source-filesystem": "^1.5.36",
-    "gatsby-transformer-remark": "^1.7.41",
+    "gatsby-transformer-remark": "^5.25.1",
     "jquery": "^3.3.1",
     "pace": "0.0.4",
     "popper.js": "^1.14.3",
